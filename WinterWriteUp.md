@@ -1,8 +1,5 @@
-# Winternitz One-Time Signature (WOTS) Exploitation
-
-## Overview
-
-This document describes the exploitation of a simple implementation of the Winternitz signature scheme. The code performs key generation, message signing, and signature verification. To retrieve the flag, the correct signature of a second message, different from the first, must be provided.
+# Winter WriteUp
+*This is a solution of a crypto challenge of the DiceCTF 2024, Winter*
 
 ## Code Description
 
