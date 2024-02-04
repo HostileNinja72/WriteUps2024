@@ -52,9 +52,11 @@ if __name__ == '__main__':
 Our script has found two messages:
 
 Message 1: 158b9f4c26df4898666a79e69d19f7209b2fe9efe8525b4301b352e49dca7ba0
+
 Hash 1:    daa882b5ecc37b44dd6b50b2e5acb0dac0d659f5f897b05899aedcfdd2dca57c
 
 Message 2: cde750320a8389a6192216bf8bae3d37cd6d94a150741724d36305dfff746bb0
+
 Hash 2:    6da20d01be665436a03542585821a093539153735f7f22453fad3ba17003175c
 
 
